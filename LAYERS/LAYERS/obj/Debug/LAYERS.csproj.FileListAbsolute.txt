@@ -1,0 +1,8 @@
+Z:\VScode\LAYERS\LAYERS\bin\Debug\LAYERS.exe.config
+Z:\VScode\LAYERS\LAYERS\bin\Debug\LAYERS.exe
+Z:\VScode\LAYERS\LAYERS\bin\Debug\LAYERS.pdb
+Z:\VScode\LAYERS\LAYERS\obj\Debug\LAYERS.csprojAssemblyReference.cache
+Z:\VScode\LAYERS\LAYERS\obj\Debug\LAYERS.Properties.Resources.resources
+Z:\VScode\LAYERS\LAYERS\obj\Debug\LAYERS.csproj.GenerateResource.cache
+Z:\VScode\LAYERS\LAYERS\obj\Debug\LAYERS.exe
+Z:\VScode\LAYERS\LAYERS\obj\Debug\LAYERS.pdb
